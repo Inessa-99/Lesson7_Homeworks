@@ -1,0 +1,15 @@
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\bin\Debug\net6.0\L7_Task3.exe
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\bin\Debug\net6.0\L7_Task3.deps.json
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\bin\Debug\net6.0\L7_Task3.runtimeconfig.json
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\bin\Debug\net6.0\L7_Task3.dll
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\bin\Debug\net6.0\L7_Task3.pdb
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\L7_Task3.csproj.AssemblyReference.cache
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\L7_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\L7_Task3.AssemblyInfoInputs.cache
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\L7_Task3.AssemblyInfo.cs
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\L7_Task3.csproj.CoreCompileInputs.cache
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\L7_Task3.dll
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\refint\L7_Task3.dll
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\L7_Task3.pdb
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\L7_Task3.genruntimeconfig.cache
+C:\Users\Инесса\Desktop\Git\C#\Homeworks7\L7_Task3\obj\Debug\net6.0\ref\L7_Task3.dll
